@@ -1,8 +1,7 @@
-[![MasterHead]
 
 <h1 align="center">aalzrg</h1>
 <h3 align="center">Computer Engineering Student</h3>
-<h3 align="center">MY H20 IS C & ASSEMBLY</h3>
+<h3 align="center">MY H<sub>2</sub>O IS C & ASSEMBLY</h3>
 
 
 
