@@ -1,6 +1,6 @@
 
 <h1 align="center">aalzrg</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student | Cybersecurity EnthusiastComputer Engineering Student</h3>
 
 
 <p align="center">
