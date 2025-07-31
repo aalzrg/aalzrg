@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/c5ee6793813c857d70c01d3b61853731/tumblr_p7mvnckp7A1vvr69bo1_500.gif" width="300" alt="Fantasy traveler ambient gif" />
+  <img src="[https://64.media.tumblr.com/c5ee6793813c857d70c01d3b61853731/tumblr_p7mvnckp7A1vvr69bo1_500.gif](https://images.app.goo.gl/Es5hc3B8FAmV3iBn8)" width="300" alt="Fantasy traveler ambient gif" />
 </p>
 
 <p align="center">
