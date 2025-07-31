@@ -25,9 +25,6 @@
 
 ---
 
-```bash
-> whoami
-
 ## 🚀 Projects
 
 ### [Project Name 1](https://github.com/0xlzrg/project1)
@@ -45,4 +42,5 @@
 ### [Project Name 3](https://github.com/0xlzrg/project3)
 *Description:* Cybersecurity writeups and tools for HTB and TryHackMe labs.  
 *Tech:* Python, Bash, Pentesting
+
 
