@@ -1,8 +1,24 @@
-
-<h1 align="center">aalzrg</h1>
-<h3 align="center">Computer Engineering Student | Cybersecurity Enthusiast</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+terminal...;I'm+0xlzrg;Computer+Engineer+%7C+Cybersecurity+Learner+%7C+Code+Artist" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<a href="https://x.com/0xlzrg" target="blank"><img align="center" src="<script src="<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16"><rect width="24" height="24" rx="1" ry="1"/><path fill="#fff" text-anchor="middle" dominant-baseline="middle" d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/></svg>" /></a>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" />
 </p>
+
+<p align="center">
+  <a href="https://x.com/0xlzrg" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/0xlzrg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/0xlzrg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+```bash
+> whoami
