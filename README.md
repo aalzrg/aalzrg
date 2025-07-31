@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://images.app.goo.gl/Es5hc3B8FAmV3iBn8" width="300" alt="Fantasy traveler ambient gif" />
+  <img src="https://i.gifer.com/BtKi.gif" width="300" alt="Fantasy traveler ambient gif" />
 </p>
 
 <p align="center">
