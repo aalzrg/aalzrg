@@ -4,5 +4,5 @@
 
 
 <p align="center">
-<a href="https://x.com/0xlzrg" target="blank"><img align="center" src="<script src="https://github.com/CLorant/readme-social-icons/blob/main/medium/light/twitter-x.svg" /></a>
+<a href="https://x.com/0xlzrg" target="blank"><img align="center" src="<script src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter-x.svg" /></a>
 </p>
