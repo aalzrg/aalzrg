@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://x.com/0xlzrg" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/1DA1F2/twitter--v1.png" title="X / Twitter" />
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/x.png" title="X" />
   </a>
   <a href="https://instagram.com/0xlzrg" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new--v1.png" title="Instagram" />
@@ -19,6 +19,7 @@
     <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" title="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
