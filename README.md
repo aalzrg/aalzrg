@@ -1,5 +1,5 @@
 <h1 align="center" style="line-height: 1.2;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=I'm+0xlzrg" alt="Typing line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=F77F00&center=true&vCenter=true&width=435&lines=I'm+0xlzrg" alt="Typing line 1" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=F77F00&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" alt="Typing line 2" />
 </h1>
