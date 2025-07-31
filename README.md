@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <img src="https://i.gifer.com/BtKi.gif" width="300" alt="Fantasy traveler ambient gif" />
+  <img src="https://i.gifer.com/6vIk.gif" width="300" alt="Fantasy traveler ambient gif" />
 </p>
-<p align="center"><a href="https://gifer.com">via GIFER</a></p>
+<p align="center"><a href="https://gifer.com"></a></p>
 
 
 <p align="center">
