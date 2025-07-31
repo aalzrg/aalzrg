@@ -1,24 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+terminal...;I'm+0xlzrg;Computer+Engineer+%7C+Cybersecurity+Learner+%7C+Code+Artist" alt="Typing SVG" />
+<!-- Retro 2000s README.md -->
+
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive; color: #000080;">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-1697.gif" width="40" />
+  Welcome to 0xlzrg's CrAzY CoDe WoRLd
+  <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-1292.gif" width="40" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" />
+  <img src="https://i.gifer.com/7efs.gif" width="350" />
 </p>
+
+<h3 align="center" style="font-family:'Courier New', monospace; color: #000;">
+  💻 Computer Engineering Student • 🛡 Cybersecurity Explorer • 🌀 Nostalgia Coder
+</h3>
+
+---
 
 <p align="center">
   <a href="https://x.com/0xlzrg" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/twitter-circled.png" title="X (Twitter)" />
   </a>
   <a href="https://instagram.com/0xlzrg" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" />
   </a>
   <a href="https://linkedin.com/in/0xlzrg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" title="LinkedIn" />
   </a>
 </p>
 
 ---
 
+<pre align="center">
+
+ ██████╗░░█████╗░██╗░░░░░██╗░██████╗░░█████╗░
+ ██╔══██╗██╔══██╗██║░░░░░██║██╔════╝░██╔══██╗
+ ██████╦╝██║░░██║██║░░░░░██║██║░░██╗░██║░░██║
+ ██╔══██╗██║░░██║██║░░░░░██║██║░░╚██╗██║░░██║
+ ██████╦╝╚█████╔╝███████╗██║╚██████╔╝╚█████╔╝
+ ╚═════╝░░╚════╝░╚══════╝╚═╝░╚═════╝░░╚════╝░
+
+</pre>
+
+---
+
+### 💽 About Me (like it's 2004)
 ```bash
-> whoami
+C:\User\0xlzrg> whoami
+---------------------------------------
+👦 Student of Computer Engineering
+🛡️ Cybersecurity Newbie on HTB / THM
+📱 Flutter & Web 3D Adventurer
+🎮 Gamer | 📼 MP3 Collector | 😎 1337 Kid
+🕋 Daily Quran Memorizer
