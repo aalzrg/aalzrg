@@ -22,3 +22,12 @@
 
 ```bash
 > whoami
+
+<details> <summary>👀 Retro Vibes Hidden Log</summary>
+bash
+Copy
+Edit
+> Last login: 2005-12-31 11:59PM
+> Loading memories... ███████████████████] 100%
+> Welcome back, hacker.
+</details> ```
