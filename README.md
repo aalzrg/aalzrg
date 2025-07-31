@@ -1,10 +1,8 @@
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+terminal...%5CnI'm+0xlzrg%5CnComputer+Engineering+Student+%7C+Cybersecurity+Learner+%7C+Code+Artist" alt="Typing SVG" />
+<h1 align="center" style="line-height: 1.2;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=I'm+0xlzrg" alt="Typing line 1" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=F77F00&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student+%7C+Cybersecurity+Learner+%7C+Code+Artist" alt="Typing line 2" />
 </h1>
-
-
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" alt="typing cat gif" />
