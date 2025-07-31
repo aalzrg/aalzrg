@@ -4,7 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F77F00&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" alt="Typing line 2" />
 </h1>
 
-<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/BtKi" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
+<p align="center">
+  <img src="https://i.gifer.com/BtKi.gif" width="300" alt="Fantasy traveler ambient gif" />
+</p>
+<p align="center"><a href="https://gifer.com">via GIFER</a></p>
+
 
 <p align="center">
   <a href="https://x.com/0xlzrg" target="_blank">
