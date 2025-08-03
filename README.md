@@ -23,24 +23,6 @@
 </p>
 
 
----
 
-## 🚀 Projects
-
-### [Project Name 1](https://github.com/0xlzrg/project1)
-*Description:* A brief sentence about what this project does or why it’s cool.  
-*Tech:* Python, Flask, Docker  
-
----
-
-### [Project Name 2](https://github.com/0xlzrg/project2)
-*Description:* This project explores Flutter apps with 3D web interaction.  
-*Tech:* Flutter, Dart, Three.js  
-
----
-
-### [Project Name 3](https://github.com/0xlzrg/project3)
-*Description:* Cybersecurity writeups and tools for HTB and TryHackMe labs.  
-*Tech:* Python, Bash, Pentesting
 
 
