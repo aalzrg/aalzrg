@@ -14,9 +14,6 @@
   <a href="https://x.com/0xlzrg" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/ffffff/x.png" title="X" />
   </a>
-  <a href="https://instagram.com/0xlzrg" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new--v1.png" title="Instagram" />
-  </a>
   <a href="https://linkedin.com/in/0xlzrg" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" title="LinkedIn" />
   </a>
